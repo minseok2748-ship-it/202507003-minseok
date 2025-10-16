@@ -1,0 +1,1 @@
+rootProject.name = "store-system-202507003-kwonminseok"
